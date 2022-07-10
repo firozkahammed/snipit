@@ -1,0 +1,2 @@
+# snipit
+forassetmanagement
